@@ -8,3 +8,8 @@ it saves but you can't use that saved time when you start app again
 i was supposed to do that but abandoned this project  
 
 —\_(._.)_/—
+
+
+and yes i know i've used GOTO 
+sue me 
+
