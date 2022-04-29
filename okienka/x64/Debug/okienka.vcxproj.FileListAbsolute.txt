@@ -1,0 +1,5 @@
+D:\ważne\.dev\okienka\x64\Debug\okienka.vcxproj.AssemblyReference.cache
+D:\ważne\.dev\okienka\x64\Debug\okienka.exe
+D:\ważne\.dev\okienka\x64\Debug\okienka.format.resources
+D:\ważne\.dev\okienka\x64\Debug\okienka.vcxproj.GenerateResource.cache
+D:\ważne\.dev\okienka\x64\Debug\okienka.joke.resources

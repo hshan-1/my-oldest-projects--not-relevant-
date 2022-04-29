@@ -1,0 +1,16 @@
+oh yea this is brilliant 
+
+it opens window 
+
+which opens window 
+
+and gues what
+
+it opens window?
+
+no
+
+message box appears!
+
+everything in the loop so at some point it stops working 
+
