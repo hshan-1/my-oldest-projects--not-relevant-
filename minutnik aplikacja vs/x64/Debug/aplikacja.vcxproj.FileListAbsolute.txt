@@ -1,0 +1,10 @@
+D:\ważne\.dev\aplikacja\x64\Debug\aplikacja.vcxproj.AssemblyReference.cache
+D:\ważne\.dev\aplikacja\x64\Debug\aplikacja.vcxproj.SuggestedBindingRedirects.cache
+D:\ważne\.dev\aplikacja\x64\Debug\aplikacja.exe
+D:\ważne\.dev\aplikacja\x64\Debug\aplikacja.format.resources
+D:\ważne\.dev\aplikacja\x64\Debug\aplikacja.vcxproj.GenerateResource.cache
+D:\ważne\.dev\minutnik aplikacja vs\x64\Debug\aplikacja.vcxproj.AssemblyReference.cache
+D:\ważne\.dev\minutnik aplikacja vs\x64\Debug\aplikacja.vcxproj.SuggestedBindingRedirects.cache
+D:\ważne\.dev\minutnik aplikacja vs\x64\Debug\aplikacja.format.resources
+D:\ważne\.dev\minutnik aplikacja vs\x64\Debug\aplikacja.vcxproj.GenerateResource.cache
+D:\ważne\.dev\minutnik aplikacja vs\x64\Debug\aplikacja.exe
