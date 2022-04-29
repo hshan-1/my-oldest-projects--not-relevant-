@@ -1,0 +1,10 @@
+one of my ambitious(at the time) projects 
+
+my main goal was to make timer (really ambitious)
+that saves changes of time? i don't know 
+using windows batch file shuts down pc with value in ms saved in that script 
+
+it saves but you can't use that saved time when you start app again
+i was supposed to do that but abandoned this project  
+
+—\_(._.)_/—
